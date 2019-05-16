@@ -1,0 +1,11 @@
+﻿# Ignorowanie zawartości folderu
+.idea/**
+Zapis modelu/**
+__pycache__/**
+data/**
+
+# Ignorowanie poszczegulnych plików
+*.hdf5
+*.log
+Skutecznosc warstw.*
+
